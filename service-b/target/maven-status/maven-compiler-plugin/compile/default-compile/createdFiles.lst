@@ -1,3 +1,4 @@
-com/dapr/service/DaprApplication.class
+com/dapr/service/config/Client.class
 com/dapr/service/controller/HelloController.class
 com/dapr/service/ServiceB.class
+com/dapr/service/DaprApplication.class

@@ -35,7 +35,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/service-c/src/main/java/com/dapr/service" />
-    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
+    <property name="settings.editor.selected.configurable" value="settings.saveactions" />
   </component>
   <component name="ReactorSettings">
     <option name="notificationShown" value="true" />
@@ -49,7 +49,20 @@
       <recent name="$PROJECT_DIR$/service-b/src/main/java/com/dapr/service" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.ClientA">
+    <configuration name="ClientA" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dapr.client.ClientA" />
+      <module name="client-a" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dapr.client.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ServiceB" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <envs>
         <env name="DAPR_HTTP_PORT" value="3005" />
@@ -78,8 +91,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.ServiceB" />
+      <item itemvalue="Application.ClientA" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ClientA" />
         <item itemvalue="Application.ServiceB" />
       </list>
     </recent_temporary>
@@ -92,7 +110,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1604738089763</updated>
-      <workItem from="1604738090987" duration="2457000" />
+      <workItem from="1604738090987" duration="8731000" />
     </task>
     <servers />
   </component>
@@ -100,49 +118,49 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="304" y="187" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604738236593">
+    <state x="304" y="187" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604815384197">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="304" y="187" key="#com.intellij.execution.impl.EditConfigurationsDialog/1680.0.2560.1440/0.0.1680.1050@0.0.1680.1050" timestamp="1604738236593" />
-    <state width="1638" height="409" key="GridCell.Tab.0.bottom" timestamp="1604738280929">
+    <state x="304" y="187" key="#com.intellij.execution.impl.EditConfigurationsDialog/1680.0.2560.1440/0.0.1680.1050@0.0.1680.1050" timestamp="1604815384197" />
+    <state width="1638" height="409" key="GridCell.Tab.0.bottom" timestamp="1604816051517">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1638" height="409" key="GridCell.Tab.0.bottom/1680.0.2560.1440/0.0.1680.1050@0.0.1680.1050" timestamp="1604738280929" />
-    <state width="1638" height="409" key="GridCell.Tab.0.center" timestamp="1604738280928">
+    <state width="1638" height="409" key="GridCell.Tab.0.bottom/1680.0.2560.1440/0.0.1680.1050@0.0.1680.1050" timestamp="1604816051517" />
+    <state width="1638" height="409" key="GridCell.Tab.0.center" timestamp="1604816051515">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1638" height="409" key="GridCell.Tab.0.center/1680.0.2560.1440/0.0.1680.1050@0.0.1680.1050" timestamp="1604738280928" />
-    <state width="1638" height="409" key="GridCell.Tab.0.left" timestamp="1604738280926">
+    <state width="1638" height="409" key="GridCell.Tab.0.center/1680.0.2560.1440/0.0.1680.1050@0.0.1680.1050" timestamp="1604816051515" />
+    <state width="1638" height="409" key="GridCell.Tab.0.left" timestamp="1604816051515">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1638" height="409" key="GridCell.Tab.0.left/1680.0.2560.1440/0.0.1680.1050@0.0.1680.1050" timestamp="1604738280926" />
-    <state width="1638" height="409" key="GridCell.Tab.0.right" timestamp="1604738280929">
+    <state width="1638" height="409" key="GridCell.Tab.0.left/1680.0.2560.1440/0.0.1680.1050@0.0.1680.1050" timestamp="1604816051515" />
+    <state width="1638" height="409" key="GridCell.Tab.0.right" timestamp="1604816051516">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1638" height="409" key="GridCell.Tab.0.right/1680.0.2560.1440/0.0.1680.1050@0.0.1680.1050" timestamp="1604738280929" />
-    <state width="1638" height="409" key="GridCell.Tab.1.bottom" timestamp="1604738280933">
+    <state width="1638" height="409" key="GridCell.Tab.0.right/1680.0.2560.1440/0.0.1680.1050@0.0.1680.1050" timestamp="1604816051516" />
+    <state width="1638" height="409" key="GridCell.Tab.1.bottom" timestamp="1604816051519">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1638" height="409" key="GridCell.Tab.1.bottom/1680.0.2560.1440/0.0.1680.1050@0.0.1680.1050" timestamp="1604738280933" />
-    <state width="1638" height="409" key="GridCell.Tab.1.center" timestamp="1604738280931">
+    <state width="1638" height="409" key="GridCell.Tab.1.bottom/1680.0.2560.1440/0.0.1680.1050@0.0.1680.1050" timestamp="1604816051519" />
+    <state width="1638" height="409" key="GridCell.Tab.1.center" timestamp="1604816051518">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1638" height="409" key="GridCell.Tab.1.center/1680.0.2560.1440/0.0.1680.1050@0.0.1680.1050" timestamp="1604738280931" />
-    <state width="1638" height="409" key="GridCell.Tab.1.left" timestamp="1604738280930">
+    <state width="1638" height="409" key="GridCell.Tab.1.center/1680.0.2560.1440/0.0.1680.1050@0.0.1680.1050" timestamp="1604816051518" />
+    <state width="1638" height="409" key="GridCell.Tab.1.left" timestamp="1604816051517">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1638" height="409" key="GridCell.Tab.1.left/1680.0.2560.1440/0.0.1680.1050@0.0.1680.1050" timestamp="1604738280930" />
-    <state width="1638" height="409" key="GridCell.Tab.1.right" timestamp="1604738280932">
+    <state width="1638" height="409" key="GridCell.Tab.1.left/1680.0.2560.1440/0.0.1680.1050@0.0.1680.1050" timestamp="1604816051517" />
+    <state width="1638" height="409" key="GridCell.Tab.1.right" timestamp="1604816051519">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1638" height="409" key="GridCell.Tab.1.right/1680.0.2560.1440/0.0.1680.1050@0.0.1680.1050" timestamp="1604738280932" />
-    <state x="341" y="164" key="SettingsEditor" timestamp="1604742627379">
+    <state width="1638" height="409" key="GridCell.Tab.1.right/1680.0.2560.1440/0.0.1680.1050@0.0.1680.1050" timestamp="1604816051519" />
+    <state x="341" y="164" key="SettingsEditor" timestamp="1604803862912">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="341" y="164" key="SettingsEditor/1680.0.2560.1440/0.0.1680.1050@0.0.1680.1050" timestamp="1604742627379" />
-    <state x="231" y="188" key="new project wizard" timestamp="1604741381334">
+    <state x="341" y="164" key="SettingsEditor/1680.0.2560.1440/0.0.1680.1050@0.0.1680.1050" timestamp="1604803862912" />
+    <state x="231" y="188" key="new project wizard" timestamp="1604803051733">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="231" y="188" key="new project wizard/1680.0.2560.1440/0.0.1680.1050@0.0.1680.1050" timestamp="1604741381334" />
+    <state x="231" y="188" key="new project wizard/1680.0.2560.1440/0.0.1680.1050@0.0.1680.1050" timestamp="1604803051733" />
   </component>
 </project>

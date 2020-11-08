@@ -1,0 +1,3 @@
+com/dapr/service/DaprApplication.class
+com/dapr/service/controller/HelloController.class
+com/dapr/service/ServiceC.class

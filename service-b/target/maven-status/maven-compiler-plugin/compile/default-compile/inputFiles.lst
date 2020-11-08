@@ -1,3 +1,4 @@
 /Users/zhangxiang/dapr-java/service-b/src/main/java/com/dapr/service/ServiceB.java
 /Users/zhangxiang/dapr-java/service-b/src/main/java/com/dapr/service/DaprApplication.java
 /Users/zhangxiang/dapr-java/service-b/src/main/java/com/dapr/service/controller/HelloController.java
+/Users/zhangxiang/dapr-java/service-b/src/main/java/com/dapr/service/config/Client.java
